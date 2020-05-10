@@ -1,3 +1,6 @@
+This project is for deploying a machine learning model
+https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf
+
 # Serve a Machine Learning Model as a Webservice
 Serving a simple machine learning model as a webservice using [flask](http://flask.pocoo.org/) and [docker](https://www.docker.com/).
 
